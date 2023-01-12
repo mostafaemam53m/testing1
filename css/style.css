@@ -2,4 +2,5 @@ body {
     font-size: 20px;
     color: rebeccapurple;
     font-weight: 800;
+    empty-cells: show;
 }
